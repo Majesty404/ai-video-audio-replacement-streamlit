@@ -31,7 +31,7 @@ The project requires the following Python packages:
 1. Clone the repository:
     ```bash
     git clone https://github.com/Majesty404/ai-video-audio-replacement-streamlit.git
-    cd ai-video-audio-replacement
+    cd ai-video-audio-replacement-streamlit
     ```
 
 2. Install the required packages:
